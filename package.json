@@ -1,0 +1,29 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "description": "Um exemplo simples de como fazer uma requisição HTTP em uma API pública usando Node.js e o pacote Axios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelocorbon/node.js.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "API",
+    "backend",
+    "database"
+  ],
+  "author": "Marcelo Corbon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelocorbon/node.js/issues"
+  },
+  "homepage": "https://github.com/marcelocorbon/node.js#readme",
+  "dependencies": {
+    "axios": "^1.3.5"
+  }
+}
